@@ -1,0 +1,13 @@
+{
+    "GET":
+    {
+            "urls" : ["http://localhost:1500/","http://localhost:1500/image.jpg","http://localhost:1500/_index.html"]
+
+    },
+    "HEAD" :
+    {
+            "urls" : ["http://localhost:1500/bye.html","http://localhost:1500/hello.html"]
+    }
+    
+
+}
