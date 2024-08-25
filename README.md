@@ -1,8 +1,5 @@
 # Http-server
 
-<p align="center">
- <img width=275px height=200px src="logo.png" alt="Project logo"></a>
-</p>
 
 <h3 align="right">HTTP Server</h3>
 
@@ -190,9 +187,9 @@ The log format can be changed from the config file to match a desired format.
 ## ✍️ Authors <a name = "authors"></a>
 
 - [**Siddharth Bhamare**](https://github.com/SiddharthBhamare01)<br />
-_**MIS - 111903098 , Subject - Computer Networks**_<br />
-_**Division - 02 , TY Computer**_<br />
-_**College of Engineering, Pune**_<br />
+_**Subject - Computer Networks**_<br />
+_**Division - 01 , TY Computer**_<br />
+_**Watumull Institute of Electronics Engineering and Computer Technology, Mumbai**_<br />
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
